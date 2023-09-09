@@ -28,3 +28,5 @@ class ListaController{
     }
 
 }
+
+module.exports=ListaController;
