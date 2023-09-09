@@ -2,9 +2,9 @@
   "name": "projetoindividual-m4",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./src/app.js"
   },
   "author": "",
   "license": "ISC",
