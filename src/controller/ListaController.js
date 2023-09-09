@@ -3,4 +3,3 @@ const prompt = require('prompt-sync')();
 //importando a biblioteca prompt 
 
 
-module.exports=ListaController;
