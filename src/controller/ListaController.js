@@ -19,5 +19,12 @@ class ListaController{
         //ordena a lista, retornando ela ordenada podemos usar em outro escopo
     }
 
+    static imprimirLista(lista){
+        lista.forEach(item => {
+            //percorre o array lista, item é cada entrada
+            console.log(item)
+            //mostra a lista
+        });
+    }
 
 }
