@@ -14,4 +14,10 @@ class ListaController{
         //utilizei o do...while e não apenas o while, pois se utilizasse apenas o while ele teria que ser ativado, ou rodaria pela "metade"
     }
 
+    static ordenarLista(lista){
+        return lista.sort()
+        //ordena a lista, retornando ela ordenada podemos usar em outro escopo
+    }
+
+
 }
